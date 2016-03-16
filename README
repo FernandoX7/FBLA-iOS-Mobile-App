@@ -1,0 +1,17 @@
+Instructions for testing application 
+
+1.) Open up DVD 
+
+2.) Click the folder marked “BHS” which contains the application
+
+3.) Click “BHS.xcodeprog” file which will open up the file in the Xcode IDE
+
+4.) From there just click “⌘ + R” or the run button  
+
+-The app will then load followed by a brief overview of the applications contents, which contains banner images
+
+-Activities are sorted by date, and one can add an activity with the Activities name, date, location, time, contact, and even a picture 
+
+-One click an activity to go over its contents again, as well click the activities location to find it on the built in maps
+
+-There is also a images button in the tool bar which displays a scrolling banner image of activity pictures
